@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke android:width="1dp" android:color="@color/splashScreen" />
+    <corners android:radius="26dp" />
+    <gradient android:startColor="@color/splashScreen" android:centerColor="@color/splashScreen" android:endColor="@color/splashScreen" android:angle="90" />
+</shape>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Genesis</string>
+    <string name="read_now">Read Now</string>
+    <string name="you_will_also_like">You will also like</string>
+    <string name="readers">Readers</string>
+    <string name="likes">Likes</string>
+    <string name="quotes">Quotes</string>
+    <string name="hot">Hot</string>
+    <string name="genre">Genre</string>
+</resources>
